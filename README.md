@@ -1,4 +1,4 @@
-# Election Audit
+# Election Audit (Derya Ferendeci)
 
 ## Overview of Election Audit and Analysis:
 
