@@ -18,9 +18,9 @@ After a congressional election, officials in Colorado want to review and audit t
 
 * Denver County had the largest portion of the votes 82.8% of total or 306,055 votes out of 369,711 total
 
-- Breakdown of the number and percentage of votes for each candidate, as follows:
+> Breakdown of the number and percentage of votes for each candidate, as follows:
 
--- Charles Casper Stockham received 23.0% or 85,213 votes
+> Charles Casper Stockham received 23.0% or 85,213 votes
 
 -- Diana DeGette received 73.8% or 272,892 votes
 
